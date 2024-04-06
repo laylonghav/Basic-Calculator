@@ -16,7 +16,7 @@ namespace WindowsFormsApp_001
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Calculator());
+            Application.Run(new Select_Data());
         }
     }
 }
